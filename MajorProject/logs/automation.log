@@ -1,0 +1,29 @@
+15:51:00.442 [main] INFO  testCases.TestCase_001_TimeSheetValidation - displayed tsStatusPendingInfo 
+15:51:09.881 [main] INFO  testCases.TestCase_001_TimeSheetValidation - displayed tsStatusSavedInfo
+15:51:19.250 [main] INFO  testCases.TestCase_001_TimeSheetValidation - displayed tsStatusSentBackforRevisionInfo
+15:51:36.592 [main] INFO  testCases.TestCase_001_TimeSheetValidation - displayed tsStatusSubmittedforApprovalInfo
+15:51:36.704 [main] INFO  testCases.TestCase_001_TimeSheetValidation - ----- closing the browser -----
+15:51:47.848 [main] INFO  testBase.baseClass - closing the browser
+15:52:30.693 [main] INFO  testCases.TestCase_001_TimeSheetValidation - ----- starting TC001_beCognizant -----
+15:52:30.823 [main] INFO  testCases.TestCase_001_TimeSheetValidation - clicked on profile
+15:52:33.838 [main] INFO  testCases.TestCase_001_TimeSheetValidation - verified the account
+15:52:58.703 [main] INFO  testCases.TestCase_001_TimeSheetValidation - opening the OneCognizant
+15:53:18.722 [main] INFO  testCases.TestCase_001_TimeSheetValidation - handled the OneCognizant window
+15:53:18.951 [main] INFO  testCases.TestCase_001_TimeSheetValidation - Navigated to OneCognizant
+15:53:22.964 [main] INFO  testCases.TestCase_001_TimeSheetValidation - opened on Edge.....
+15:53:22.964 [main] INFO  testCases.TestCase_001_TimeSheetValidation - clicked on search Icon
+15:53:25.158 [main] INFO  testCases.TestCase_001_TimeSheetValidation - input timesheet in search bar
+15:53:35.474 [main] INFO  testCases.TestCase_001_TimeSheetValidation - handled the timesheet window
+15:53:35.476 [main] INFO  testCases.TestCase_001_TimeSheetValidation - Navigated to timesheet
+15:53:35.629 [main] INFO  testCases.TestCase_001_TimeSheetValidation - validating the header
+15:53:37.800 [main] INFO  testCases.TestCase_001_TimeSheetValidation - three weeks of timesheet
+15:53:43.341 [main] INFO  testCases.TestCase_001_TimeSheetValidation - Displayed current week
+15:54:05.276 [main] INFO  testCases.TestCase_001_TimeSheetValidation - displayed  tsStatusApprovedInfo
+15:54:14.634 [main] INFO  testCases.TestCase_001_TimeSheetValidation - displayed tsStatusOverdueInfo
+15:54:24.001 [main] INFO  testCases.TestCase_001_TimeSheetValidation - displayed tsStatusPartiallyApprovedInfo
+15:54:33.449 [main] INFO  testCases.TestCase_001_TimeSheetValidation - displayed tsStatusPendingInfo 
+15:54:42.849 [main] INFO  testCases.TestCase_001_TimeSheetValidation - displayed tsStatusSavedInfo
+15:54:52.204 [main] INFO  testCases.TestCase_001_TimeSheetValidation - displayed tsStatusSentBackforRevisionInfo
+15:55:09.536 [main] INFO  testCases.TestCase_001_TimeSheetValidation - displayed tsStatusSubmittedforApprovalInfo
+15:55:09.675 [main] INFO  testCases.TestCase_001_TimeSheetValidation - ----- closing the browser -----
+15:55:20.891 [main] INFO  testBase.baseClass - closing the browser
