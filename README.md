@@ -80,10 +80,7 @@ Screenshots are captured at relevant steps for documentation and analysis.
 5. **Analyze Results:**
    - Utilize the visual representation in the TestNG Report to quickly identify test status and any issues encountered during the test run.
 
-## Contributors
-- **Katakam Vinay 2318829**
-- **Inti Jagadeesh 2318874**
-- **Sai Bonala 2318835**
+
 
 ## Known Issues
 - **Issue 1: Date Format Inconsistency**
